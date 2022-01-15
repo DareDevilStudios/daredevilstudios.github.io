@@ -24,6 +24,8 @@
     top: 40%;
 }
 
-@media screen {
-    
+@media (max-width:574px) {
+    #hero{
+        display: none;
+    }
 }
