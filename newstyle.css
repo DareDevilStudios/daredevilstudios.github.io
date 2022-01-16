@@ -11,7 +11,8 @@
     height: 450px;
     border-radius: 40px;
     background-image: url(./assets/images/pic.jpg);
-    /*linear-gradient(90deg, hsla(350, 93%, 61%, 1) 0%, hsla(359, 92%, 46%, 1) 100%)*/
+    /* https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455__340.jpg */
+    /* background:linear-gradient(90deg, hsla(350, 93%, 61%, 1) 0%, hsla(359, 92%, 46%, 1) 100%); */
     background-size: cover;
     background-position: center;
     position: relative;
